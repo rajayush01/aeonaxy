@@ -1,7 +1,7 @@
 import React from 'react';
 import lock from './lock.png';
 import last from './last.png';
-import { FaRegRectangleList, FaAngleLeft, FaAngleRight, FaLock, FaEllipsisVertical, FaLightbulb } from "react-icons/fa6";
+import { FaRegRectangleList, FaAngleLeft, FaAngleRight, FaLock, FaEllipsisVertical, FaLightbulb, FaRegMessage } from "react-icons/fa6";
 
 
 const Content = () => {
