@@ -31,7 +31,7 @@ const Content = () => {
               <img src={lock} alt='lock' className='h-4 w-12 items-center mt-4  '></img>
             </div>
             <div>
-              <p className='text-[16px] mt-3'>
+              <p className='text-[14px] mt-3'>
                 This doc is in your <span className='font-bold'>private channel</span>, where you can store your private work. You can share
                 docs one by one from here, but to properly organize your team's knowledge base, use
                 <span className='font-bold'> workspace channels</span>.
