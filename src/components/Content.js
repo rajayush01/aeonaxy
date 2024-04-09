@@ -28,16 +28,16 @@ const Content = () => {
         <div className='bg-gray-100 mt-4 w-3/4 h-48 '>
           <div className='flex m-5 gap-1'>
             <div>
-              <img src={lock} alt='lock' className='h-4 w-12 items-center mt-4  '></img>
+              <img src={lock} alt='lock' className='h-4 w-12 items-center mt-6  '></img>
             </div>
             <div>
-              <p className='text-[14px] mt-3'>
+              <p className='text-[15px] mt-5'>
                 This doc is in your <span className='font-bold'>private channel</span>, where you can store your private work. You can share
                 docs one by one from here, but to properly organize your team's knowledge base, use
                 <span className='font-bold'> workspace channels</span>.
               </p>
               <br></br>
-              <p className='text-[16px] mt-4'>
+              <p className='text-[15px] '>
                 You can make channels <span className='font-bold'>public</span> to make all docs visible to everyone on the team, or <span className='font-bold'>private </span>
                 if you want the channel's docs to only be visible by a selection of teammates.
 
